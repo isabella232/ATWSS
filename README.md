@@ -5,7 +5,7 @@ ATWSS
 
 Rebuild the website:
 
-== Using Jekyl
+== Using Jekyl > 2.0
 (ruby > 2.0)
 
 yum install ruby
